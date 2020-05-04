@@ -2,10 +2,10 @@
 Python Pandas Tutorial
 
 Python Pandas Tutorial 1 - Introduction
-https://www.youtube.com/watch?v=pao5waoRrSQ
+<br>https://www.youtube.com/watch?v=pao5waoRrSQ
 
 Python Pandas Tutorial 2 - Datafram
-https://www.youtube.com/watch?v=C9sVpmRdbjE
+<br>https://www.youtube.com/watch?v=C9sVpmRdbjE
 
 Python Pandas Tutorial 3 - Dataframe from Different Data Sources
-https://www.youtube.com/watch?v=jD127UVjGPY
+<br>https://www.youtube.com/watch?v=jD127UVjGPY
