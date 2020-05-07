@@ -12,3 +12,6 @@ Python Pandas Tutorial 3 - Dataframe from Different Data Sources
 
 Python Pandas Tutorial 4 - Handle Missing Data(isnull,isna,fillna,dropna,replace)
 <br>https://www.youtube.com/watch?v=3qQrlLP-n10
+
+Python Pandas Tutorial 5 - Concatenation and Merging(CONCAT, MERGE)
+<br>https://www.youtube.com/watch?v=74EH2cmfBmI
