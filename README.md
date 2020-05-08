@@ -15,3 +15,6 @@ Python Pandas Tutorial 4 - Handle Missing Data(isnull,isna,fillna,dropna,replace
 
 Python Pandas Tutorial 5 - Concatenation and Merging(CONCAT, MERGE)
 <br>https://www.youtube.com/watch?v=74EH2cmfBmI
+
+Python Pandas Tutorial 6 - GroupBy and Sorting(GROUPBY, SORT_VALUES)
+<br>https://www.youtube.com/watch?v=n3m2tL_5YRQ
