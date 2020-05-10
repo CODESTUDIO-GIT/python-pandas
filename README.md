@@ -18,3 +18,6 @@ Python Pandas Tutorial 5 - Concatenation and Merging(CONCAT, MERGE)
 
 Python Pandas Tutorial 6 - GroupBy and Sorting(GROUPBY, SORT_VALUES)
 <br>https://www.youtube.com/watch?v=n3m2tL_5YRQ
+
+Python Pandas Tutorial 7 - Drop - Apply and Get Dummies(DROP, APPLY, GET_DUMMIES)
+<br>https://www.youtube.com/watch?v=Df66G9LBVgA
