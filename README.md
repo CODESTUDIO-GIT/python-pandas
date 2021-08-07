@@ -21,3 +21,6 @@ Python Pandas Tutorial 6 - GroupBy and Sorting(GROUPBY, SORT_VALUES)
 
 Python Pandas Tutorial 7 - Drop - Apply and Get Dummies(DROP, APPLY, GET_DUMMIES)
 <br>https://www.youtube.com/watch?v=Df66G9LBVgA
+
+Python Pandas Tutorial 8 - Filter Pandas Dataframe
+<br>https://www.youtube.com/watch?v=Df66G9LBVgA
