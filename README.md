@@ -24,3 +24,6 @@ Python Pandas Tutorial 7 - Drop - Apply and Get Dummies(DROP, APPLY, GET_DUMMIES
 
 Python Pandas Tutorial 8 - Filter Pandas Dataframe
 <br>https://www.youtube.com/watch?v=v-epDWKIZE4
+
+Master Python Date, Time & Timezones with Pandas | Complete Guide
+<br>https://www.youtube.com/watch?v=g1zHcElRFlQ
