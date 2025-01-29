@@ -27,3 +27,6 @@ Python Pandas Tutorial 8 - Filter Pandas Dataframe
 
 Master Python Date, Time & Timezones with Pandas | Complete Guide
 <br>https://www.youtube.com/watch?v=g1zHcElRFlQ
+
+Master Data Visualization in Python with Pandas | Line, Bar, Area, Scatter, and Box Plots Explained
+<br>https://www.youtube.com/watch?v=LsMtzT5EURg
